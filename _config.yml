@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A site to document my cybersecurity journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'joeyimhof.com'
 
 github:
   username: imbranch             # change to your github username
