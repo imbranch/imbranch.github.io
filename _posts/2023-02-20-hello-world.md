@@ -7,7 +7,7 @@ tags: [hello] # TAG names should always be lowercase
 
 # Welcome
 
-Hello welcome to my documentation site!  This will soon be utilized as the source for all my docs, writeups, and overall IT/Cyber journey.
+Hello and welcome to my documentation site!  This will soon be utilized as the source for all my docs, writeups, and overall IT/Cyber journey.
 
 ```python
 print('Hello World')
