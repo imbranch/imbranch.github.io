@@ -26,8 +26,8 @@ tagline: A site to document my cybersecurity journey.   # it will display as the
 description: >-                        # used by seo meta and the atom feed
   A site to document my cybersecurity journey.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://imbranch.github.io'
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io' 'https://imbranch.github.io'
+url: 'https://joeyimhof.com'
 
 github:
   username: imbranch             # change to your github username
