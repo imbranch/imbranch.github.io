@@ -21,7 +21,7 @@ timezone: America/Chicago
 
 title: Joey Imhof                          # the main title
 
-tagline: A site to document my cybersecurity journey.   # it will display as the sub-title
+tagline: Documenting my Cybersecurity journey   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A site to document my cybersecurity journey.
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Joseph Imhof
-  email: example@domain.com             # change to your email address
+  # email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/baby_kangaruu      # change to your twitter homepage
@@ -165,10 +165,10 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+  # - scope:
+  #     path: "assets/img"
+  #   values:
+  #     image: true
 
 sass:
   style: compressed

@@ -1,14 +1,13 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: 'fas fa-info-circle'
 order: 4
 ---
-# About Me
-Content goes here.
-
-## Personal
+## What is this?
+Hello and welcome to my documentation site!  This personal site is utilized as a public source for my written docs, writeups, and overall IT/Cyber journey.
+## Who am I?
 I am *human*!
-### Career
+##
 I Work **[Insert super cool cyber job here]**
 
 ## Test Pic
