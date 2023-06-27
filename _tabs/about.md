@@ -12,7 +12,7 @@ I am *human*!
 I Work **[Insert super cool cyber job here]**
 
 ## Test Pic
-![test Picture](/assetes/img/Branch_Walking_a_path_of_light.png)
+![test Picture](/assetes/img/test.png)
 
 ## Header with many lines
 asdf
