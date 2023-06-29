@@ -6,7 +6,9 @@ order: 4
 ## What is this?
 Welcome to my documentation site!  This personal site is utilized as a public source for my written docs, writeups, and overall IT/Cyber journey.
 
-The goal is to post weekly updates about things I've learned.  
+I plan to improve my writing ability through my documentation and posts. 
+The goal is to post one weekly update about things I've learned or am currently learning.
+
 
 ## Who am I?
 - Soon to be IT Technician
@@ -16,6 +18,6 @@ The goal is to post weekly updates about things I've learned.
 - 2023 SOC Core Skills W/John Strand @ Black Hills InfoSec
 
 ## Certifications
-Sec+ Installing: ▓▓▒▒▒▒▒▒▒▒ 20%
+Sec+ Installing: ▓▓▓▒▒▒▒▒▒▒ 30%
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
