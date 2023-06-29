@@ -16,6 +16,6 @@ The goal is to post weekly updates about things I've learned.
 - 2023 SOC Core Skills W/John Strand @ Black Hills InfoSec
 
 ## Certifications
-Sec+ installing: ██▒▒▒▒▒▒▒▒ 20%
+Sec+ Installing: ▓▓▒▒▒▒▒▒▒▒ 20%
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
