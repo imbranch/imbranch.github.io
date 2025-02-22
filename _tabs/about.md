@@ -11,13 +11,14 @@ The goal is to post one weekly update about things I've learned or am currently 
 
 
 ## Who am I?
-- Soon to be IT Technician
-- Graduated Student starting my career.
+- Security Analyst figuring it out.
+- Graduated Compsci/CyberSec Student.
+
 
 ## Trainings
 - 2023 SOC Core Skills W/John Strand @ Black Hills InfoSec
 
 ## Certifications
-Sec+ Installing: ▓▓▓▒▒▒▒▒▒▒ 30%
+Sec+ Installing: ▓▓▓▓▓▓▓▓▓▓ 100%
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
